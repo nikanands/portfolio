@@ -40,6 +40,10 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/shoppy.69acf5d4.png"
   },
   {
+    "revision": "6da7739ee89712b061b995cddd080909",
+    "url": "/portfolio/static/media/payment-card.6da7739e.png"
+  },
+  {
     "revision": "c90a62cdfdc55f0ca1242b4c58f98ae9",
     "url": "/portfolio/static/media/convertico.c90a62cd.png"
   },
@@ -54,10 +58,6 @@ self.__precacheManifest = [
   {
     "revision": "fe5912583a0b44d944a20eb61d839eef",
     "url": "/portfolio/static/media/signup.fe591258.png"
-  },
-  {
-    "revision": "6da7739ee89712b061b995cddd080909",
-    "url": "/portfolio/static/media/payment-card.6da7739e.png"
   },
   {
     "revision": "83017ca09daa1385d7f1ee7d026fa812",
