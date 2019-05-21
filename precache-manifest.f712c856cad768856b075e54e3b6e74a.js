@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/portfolio/static/js/main.c1843fea.chunk.js"
   },
   {
-    "revision": "69acf5d405e72e8a2794ba302df24160",
-    "url": "/portfolio/static/media/shoppy.69acf5d4.png"
-  },
-  {
     "revision": "6da7739ee89712b061b995cddd080909",
     "url": "/portfolio/static/media/payment-card.6da7739e.png"
+  },
+  {
+    "revision": "69acf5d405e72e8a2794ba302df24160",
+    "url": "/portfolio/static/media/shoppy.69acf5d4.png"
   },
   {
     "revision": "c90a62cdfdc55f0ca1242b4c58f98ae9",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/signup.fe591258.png"
   },
   {
-    "revision": "83017ca09daa1385d7f1ee7d026fa812",
+    "revision": "ea7ed957549498967e08ea54c4a1f90a",
     "url": "/portfolio/index.html"
   }
 ];
