@@ -36,20 +36,16 @@ self.__precacheManifest = [
     "url": "/portfolio/static/js/main.c1843fea.chunk.js"
   },
   {
-    "revision": "69acf5d405e72e8a2794ba302df24160",
-    "url": "/portfolio/static/media/shoppy.69acf5d4.png"
-  },
-  {
     "revision": "6da7739ee89712b061b995cddd080909",
     "url": "/portfolio/static/media/payment-card.6da7739e.png"
   },
   {
-    "revision": "c90a62cdfdc55f0ca1242b4c58f98ae9",
-    "url": "/portfolio/static/media/convertico.c90a62cd.png"
+    "revision": "69acf5d405e72e8a2794ba302df24160",
+    "url": "/portfolio/static/media/shoppy.69acf5d4.png"
   },
   {
-    "revision": "fe5912583a0b44d944a20eb61d839eef",
-    "url": "/portfolio/static/media/signup.fe591258.png"
+    "revision": "c90a62cdfdc55f0ca1242b4c58f98ae9",
+    "url": "/portfolio/static/media/convertico.c90a62cd.png"
   },
   {
     "revision": "a683780292dc7f4a078d3d761a276734",
@@ -58,6 +54,10 @@ self.__precacheManifest = [
   {
     "revision": "79f7ad94dbd63968c95aa71145019593",
     "url": "/portfolio/static/media/login.79f7ad94.png"
+  },
+  {
+    "revision": "fe5912583a0b44d944a20eb61d839eef",
+    "url": "/portfolio/static/media/signup.fe591258.png"
   },
   {
     "revision": "ea7ed957549498967e08ea54c4a1f90a",
