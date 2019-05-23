@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/dynamic.d8600769.svg"
   },
   {
-    "revision": "7d1c52fa55e92da81121",
-    "url": "/portfolio/static/css/main.356f32f2.chunk.css"
+    "revision": "ce04af1b2c1088bf515d",
+    "url": "/portfolio/static/css/main.a008eb5c.chunk.css"
   },
   {
     "revision": "53ebc025fca807d4dbea",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/js/2.9ec49057.chunk.js"
   },
   {
-    "revision": "b92afa7115665e23522238b36d297a02",
-    "url": "/portfolio/static/media/WhatsApp Image 2019-05-15 at 3.19.52 PM.b92afa71.jpeg"
+    "revision": "82918e06323adf24eb17e2613c5d3302",
+    "url": "/portfolio/static/media/myself.82918e06.png"
   },
   {
     "revision": "a3d5e7c98b5da0a657cf8c3d68cd0d0c",
@@ -32,12 +32,16 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/idea.36466222.svg"
   },
   {
-    "revision": "7d1c52fa55e92da81121",
-    "url": "/portfolio/static/js/main.c1843fea.chunk.js"
+    "revision": "ce04af1b2c1088bf515d",
+    "url": "/portfolio/static/js/main.163c2d20.chunk.js"
   },
   {
     "revision": "6da7739ee89712b061b995cddd080909",
     "url": "/portfolio/static/media/payment-card.6da7739e.png"
+  },
+  {
+    "revision": "b92afa7115665e23522238b36d297a02",
+    "url": "/portfolio/static/media/WhatsApp Image 2019-05-15 at 3.19.52 PM.b92afa71.jpeg"
   },
   {
     "revision": "69acf5d405e72e8a2794ba302df24160",
@@ -60,7 +64,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/signup.fe591258.png"
   },
   {
-    "revision": "ea7ed957549498967e08ea54c4a1f90a",
+    "revision": "630513ab770a8d714c52718976c5d3d3",
     "url": "/portfolio/index.html"
   }
 ];
