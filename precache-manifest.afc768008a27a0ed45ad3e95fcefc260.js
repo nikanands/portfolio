@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/dynamic.d8600769.svg"
   },
   {
-    "revision": "ce04af1b2c1088bf515d",
-    "url": "/portfolio/static/css/main.a008eb5c.chunk.css"
+    "revision": "71b9f12c6375b310fbfd",
+    "url": "/portfolio/static/css/main.386d1f26.chunk.css"
   },
   {
     "revision": "53ebc025fca807d4dbea",
@@ -32,8 +32,12 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/idea.36466222.svg"
   },
   {
-    "revision": "ce04af1b2c1088bf515d",
-    "url": "/portfolio/static/js/main.163c2d20.chunk.js"
+    "revision": "71b9f12c6375b310fbfd",
+    "url": "/portfolio/static/js/main.e427db7b.chunk.js"
+  },
+  {
+    "revision": "b92afa7115665e23522238b36d297a02",
+    "url": "/portfolio/static/media/WhatsApp Image 2019-05-15 at 3.19.52 PM.b92afa71.jpeg"
   },
   {
     "revision": "6da7739ee89712b061b995cddd080909",
@@ -48,23 +52,19 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/convertico.c90a62cd.png"
   },
   {
-    "revision": "b92afa7115665e23522238b36d297a02",
-    "url": "/portfolio/static/media/WhatsApp Image 2019-05-15 at 3.19.52 PM.b92afa71.jpeg"
+    "revision": "a683780292dc7f4a078d3d761a276734",
+    "url": "/portfolio/static/media/keyboard.a6837802.png"
   },
   {
-    "revision": "79f7ad94dbd63968c95aa71145019593",
-    "url": "/portfolio/static/media/login.79f7ad94.png"
+    "revision": "f4bddeb2f025dea26ed17734628cd5ed",
+    "url": "/portfolio/static/media/login.f4bddeb2.png"
   },
   {
     "revision": "fe5912583a0b44d944a20eb61d839eef",
     "url": "/portfolio/static/media/signup.fe591258.png"
   },
   {
-    "revision": "a683780292dc7f4a078d3d761a276734",
-    "url": "/portfolio/static/media/keyboard.a6837802.png"
-  },
-  {
-    "revision": "630513ab770a8d714c52718976c5d3d3",
+    "revision": "840259251edb0fcffb63f0b2be2e88bd",
     "url": "/portfolio/index.html"
   }
 ];
