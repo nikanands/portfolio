@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/portfolio/money-reporter/page": "app/portfolio/money-reporter/page.js",
+  "/portfolio/bluebox/page": "app/portfolio/bluebox/page.js",
+  "/portfolio/cardiovascular-disease-risk/page": "app/portfolio/cardiovascular-disease-risk/page.js"
+}

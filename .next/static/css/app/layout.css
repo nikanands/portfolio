@@ -1,0 +1,885 @@
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[2].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[13].oneOf[2].use[2]!./node_modules/next/font/google/target.css?{"path":"app/layout.tsx","import":"Mulish","arguments":[{"subsets":["latin"],"weight":["200","300","400","500","600","700","800","900"]}],"variableName":"mulish"} ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/* cyrillic-ext */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(/_next/static/media/5174d48889eafebe-s.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(/_next/static/media/66c89cdb3c9b0c3f-s.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(/_next/static/media/d0d902c17c06e6a9-s.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(/_next/static/media/8c7a0a1575b90f43-s.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(/_next/static/media/f7040064460a9b21-s.p.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(/_next/static/media/5174d48889eafebe-s.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(/_next/static/media/66c89cdb3c9b0c3f-s.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(/_next/static/media/d0d902c17c06e6a9-s.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(/_next/static/media/8c7a0a1575b90f43-s.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(/_next/static/media/f7040064460a9b21-s.p.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/_next/static/media/5174d48889eafebe-s.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/_next/static/media/66c89cdb3c9b0c3f-s.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/_next/static/media/d0d902c17c06e6a9-s.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/_next/static/media/8c7a0a1575b90f43-s.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/_next/static/media/f7040064460a9b21-s.p.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/_next/static/media/5174d48889eafebe-s.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/_next/static/media/66c89cdb3c9b0c3f-s.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/_next/static/media/d0d902c17c06e6a9-s.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/_next/static/media/8c7a0a1575b90f43-s.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/_next/static/media/f7040064460a9b21-s.p.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/_next/static/media/5174d48889eafebe-s.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/_next/static/media/66c89cdb3c9b0c3f-s.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/_next/static/media/d0d902c17c06e6a9-s.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/_next/static/media/8c7a0a1575b90f43-s.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/_next/static/media/f7040064460a9b21-s.p.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/_next/static/media/5174d48889eafebe-s.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/_next/static/media/66c89cdb3c9b0c3f-s.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/_next/static/media/d0d902c17c06e6a9-s.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/_next/static/media/8c7a0a1575b90f43-s.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/_next/static/media/f7040064460a9b21-s.p.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(/_next/static/media/5174d48889eafebe-s.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(/_next/static/media/66c89cdb3c9b0c3f-s.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(/_next/static/media/d0d902c17c06e6a9-s.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(/_next/static/media/8c7a0a1575b90f43-s.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(/_next/static/media/f7040064460a9b21-s.p.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(/_next/static/media/5174d48889eafebe-s.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(/_next/static/media/66c89cdb3c9b0c3f-s.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(/_next/static/media/d0d902c17c06e6a9-s.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(/_next/static/media/8c7a0a1575b90f43-s.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: '__Mulish_028c47';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(/_next/static/media/f7040064460a9b21-s.p.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}@font-face {font-family: '__Mulish_Fallback_028c47';src: local("Arial");ascent-override: 96.02%;descent-override: 23.89%;line-gap-override: 0.00%;size-adjust: 104.67%
+}.__className_028c47 {font-family: '__Mulish_028c47', '__Mulish_Fallback_028c47';font-style: normal
+}
+
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[13].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[13].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[13].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[13].use[5]!./app/globals.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+:root {
+  --max-width: 1100px;
+  --border-radius: 12px;
+  --font-mono: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono",
+    "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro",
+    "Fira Mono", "Droid Sans Mono", "Courier New", monospace;
+  --text-color: #393939;
+  --text-color-hover: #e1e1e1;
+  --green: #1d4c00;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 10px;
+  line-height: 1.75;
+  font-family: Mulish;
+}
+
+body {
+  color: var(--text-color);
+}
+
+.page_wrapper {
+  padding: 0 12rem;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 0;
+}
+
+.link {
+  padding: 0.5rem 2.5rem;
+  border: 0.1rem solid transparent;
+  border-radius: 0.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  box-shadow: none;
+  transition: box-shadow 0.2s ease-in-out;
+}
+.link:hover {
+  box-shadow: 0rem 0rem 1rem 0.3rem rgba(0, 0, 0, 0.15);
+}
+
+.btn {
+  padding: 1rem 2.5rem;
+  border: 0.1rem solid #000;
+  border-radius: 5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  background-color: transparent;
+  color: var(--text-color);
+  transition: all 0.25s ease-in-out;
+}
+.btn:hover {
+  background-color: var(--green);
+  color: var(--text-color-hover);
+}
+
+.hero {
+  text-align: center;
+  padding: 15rem 0;
+}
+.hero h1 {
+  font-size: 10rem;
+  font-weight: 600;
+  line-height: 12.6rem;
+}
+.hero h1 span {
+  color: var(--green);
+}
+.hero p {
+  width: 50%;
+  font-size: 2.4rem;
+  line-height: 3rem;
+  font-weight: 400;
+  margin: 0 auto 6rem;
+  text-wrap: balance;
+}
+
+.project-wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 4rem;
+  gap: 4rem;
+  padding: 8rem 0;
+}
+.project-wrapper figure {
+  border: 0.1rem solid #000;
+  border-radius: 1rem;
+}
+.project-wrapper figure .img-container {
+  width: 100%;
+  height: 30rem;
+  position: relative;
+}
+.project-wrapper figure .img-container img {
+  border-top-right-radius: 1rem;
+  border-top-left-radius: 1rem;
+}
+.project-wrapper figure figcaption {
+  padding-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.project-wrapper figure figcaption h2 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 3.2rem;
+  padding-bottom: 4rem;
+}
+.project-wrapper figure figcaption h2 span {
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 2.4rem;
+  display: block;
+  padding: 2rem 0;
+}
+.project-wrapper figure figcaption .btn {
+  border: 0;
+  border-radius: 0;
+  background-color: var(--text-color);
+  color: #fff;
+  border-bottom-right-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+}
+.project-wrapper figure figcaption .btn:hover {
+  background-color: var(--green);
+}
+
+.services-section h2 {
+  text-align: center;
+  font-size: 5rem;
+}
+.services-section .service-wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 4rem;
+  gap: 4rem;
+  padding: 8rem 0;
+}
+.services-section .service-wrapper figure {
+  border: 0.1rem solid #000;
+  border-radius: 1rem;
+  padding: 3rem 2rem 1rem 2rem;
+}
+.services-section .service-wrapper figure .img-container {
+  width: 40%;
+  height: 10rem;
+  position: relative;
+  left: 30%;
+}
+.services-section .service-wrapper figure .img-container .img {
+  rotate: 180deg;
+}
+.services-section .service-wrapper figure figcaption {
+  padding-top: 3rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.services-section .service-wrapper figure figcaption h3 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 3.2rem;
+  padding-bottom: 2rem;
+}
+.services-section .service-wrapper figure figcaption p {
+  font-size: 1.6rem;
+  font-weight: 300;
+}
+
+.footer {
+  text-align: center;
+  padding: 8rem 4rem 4rem 4rem;
+  position: relative;
+}
+.footer h3 {
+  margin-bottom: 8rem;
+  font-size: 5.6rem;
+  line-height: 7rem;
+  font-weight: 600;
+}
+.footer p {
+  margin: 0 auto 8rem;
+  text-wrap: balance;
+  font-size: 2.4rem;
+  line-height: 3rem;
+  font-weight: 300;
+  width: 70%;
+}
+.footer .copyright {
+  font-size: 1.4rem;
+  margin-top: 8rem;
+  margin-bottom: 3rem;
+}
+.footer::before {
+  position: absolute;
+  content: "";
+  width: 50%;
+  height: 0.2rem;
+  background-color: #000;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.design-content-container {
+  padding: 8rem 8rem;
+}
+.design-content-container h1 {
+  text-align: center;
+  font-size: 7rem;
+  font-weight: 300;
+  line-height: 1.5;
+  -webkit-text-decoration-line: underline;
+          text-decoration-line: underline;
+  text-decoration-thickness: 0.5rem;
+}
+.design-content-container h2 {
+  text-align: center;
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.5;
+  padding-bottom: 5rem;
+}
+.design-content-container p {
+  text-align: center;
+  font-size: 2rem;
+  line-height: 1.5;
+  font-weight: 300;
+  padding: 0 10rem 4rem;
+}
+.design-content-container p span {
+  display: block;
+}
+.design-content-container figure {
+  position: relative;
+  margin: auto;
+  height: 250rem;
+}
+
+.data-content-container {
+  padding: 8rem 8rem 5rem;
+}
+.data-content-container h1 {
+  text-align: center;
+  font-size: 7rem;
+  font-weight: 300;
+  line-height: 1.5;
+  -webkit-text-decoration-line: underline;
+          text-decoration-line: underline;
+  text-decoration-thickness: 0.5rem;
+}
+.data-content-container h2 {
+  text-align: center;
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.5;
+  padding-bottom: 5rem;
+}
+.data-content-container .cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 4rem;
+  gap: 4rem;
+  padding: 8rem 0;
+}
+.data-content-container .cards div {
+  border: 0.1rem solid black;
+  padding: 2rem 3rem;
+  border-radius: 2rem;
+}
+.data-content-container .cards .card-title {
+  -webkit-text-decoration-line: underline;
+          text-decoration-line: underline;
+  font-size: 2rem;
+  font-weight: 400;
+}
+.data-content-container .cards .card-subtitle {
+  font-size: 1.6rem;
+  font-weight: 300;
+}
+.data-content-container .details {
+  padding-bottom: 4rem;
+}
+.data-content-container .details h3 {
+  font-size: 2rem;
+  font-weight: 200;
+  -webkit-text-decoration-line: underline;
+          text-decoration-line: underline;
+  text-decoration-thickness: 0.1rem;
+}
+.data-content-container .details p {
+  font-size: 1.6rem;
+  font-weight: 200;
+}
+.data-content-container .details span {
+  font-size: 1.6rem;
+  font-weight: 200;
+}
+.data-content-container .details ul {
+  padding-left: 4rem;
+  padding-bottom: 1.2rem;
+}
+.data-content-container .details ul li {
+  font-size: 1.4rem;
+  font-weight: 200;
+}
+.data-content-container .details .details-image {
+  position: relative;
+  width: 80rem;
+  height: 40rem;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 1355px) {
+  .project-wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 6rem;
+    column-gap: 6rem;
+    grid-row-gap: 4rem;
+    row-gap: 4rem;
+  }
+  .data-content-container .details .details-image img {
+    width: 70rem;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .page_wrapper {
+    padding: 0 4rem;
+  }
+  .hero {
+    padding: 8rem 0;
+  }
+  .project-wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 4rem;
+    gap: 4rem;
+  }
+  .services-section .service-wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 4rem;
+    gap: 4rem;
+  }
+  .design-content-container {
+    padding: 4rem 4rem;
+  }
+  .data-content-container {
+    padding: 8rem 2rem 5rem;
+  }
+}
+@media screen and (max-width: 810px) {
+  .page_wrapper {
+    padding: 0 4rem;
+  }
+  .hero {
+    padding: 8rem 0;
+  }
+  .project-wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 4rem;
+    gap: 4rem;
+  }
+  .service-wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 4rem;
+    gap: 4rem;
+    padding: 8rem 0;
+  }
+  .service-wrapper figure {
+    border: 0.1rem solid #000;
+    border-radius: 1rem;
+    padding: 3rem 2rem 1rem 2rem;
+  }
+  .service-wrapper figure .img-container {
+    width: 40%;
+    height: 10rem;
+    position: relative;
+    left: 30%;
+  }
+  .service-wrapper figure .img-container .img {
+    rotate: 180deg;
+  }
+  .service-wrapper figure figcaption {
+    padding-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  .service-wrapper figure figcaption h3 {
+    font-size: 2.4rem;
+    font-weight: 400;
+    line-height: 3.2rem;
+    padding-bottom: 2rem;
+  }
+  .service-wrapper figure figcaption p {
+    font-size: 1.6rem;
+    font-weight: 300;
+  }
+  .design-content-container {
+    padding: 4rem 2rem;
+  }
+  .design-content-container p {
+    padding: 0 1rem 4rem;
+  }
+  .data-content-container {
+    padding: 8rem 2rem 5rem;
+  }
+}
+@media screen and (max-width: 750px) {
+  .project-wrapper {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 4rem;
+    gap: 4rem;
+    padding: 0 8rem;
+  }
+  .services-section .service-wrapper {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 4rem;
+    gap: 4rem;
+    padding: 0 8rem;
+  }
+}
+@media screen and (max-width: 500px) {
+  .page_wrapper {
+    padding: 0 2rem;
+  }
+  .header {
+    flex-wrap: wrap;
+  }
+  .header .logo {
+    margin: 0 auto 1rem;
+  }
+  .hero {
+    text-align: center;
+    padding: 6rem 0;
+  }
+  .hero h1 {
+    font-size: 8rem;
+    line-height: 10rem;
+  }
+  .hero p {
+    width: 100%;
+  }
+  .project-wrapper {
+    grid-template-columns: repeat(1, 1fr);
+    padding: 8rem 2rem;
+  }
+  .services-section .service-wrapper {
+    grid-template-columns: repeat(1, 1fr);
+    padding: 8rem 2rem 6rem;
+  }
+  .footer {
+    text-align: center;
+    padding: 6rem 2rem 4rem;
+    position: relative;
+  }
+  .footer h3 {
+    margin-bottom: 3rem;
+  }
+  .footer p {
+    width: 100%;
+    margin-bottom: 6rem;
+  }
+  .footer .copyright {
+    margin-top: 6rem;
+  }
+  .design-content-container h1 {
+    font-size: 4rem;
+  }
+  .design-content-container h2 {
+    font-size: 2.5rem;
+  }
+  .design-content-container p {
+    font-size: 1.8rem;
+  }
+  .design-content-container figure {
+    height: 180rem;
+  }
+  .data-content-container h1 {
+    font-size: 5rem;
+  }
+  .data-content-container h2 {
+    font-size: 2.5rem;
+    padding-bottom: 0;
+  }
+  .data-content-container .cards {
+    padding-top: 4rem;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 4rem;
+    gap: 4rem;
+  }
+}
